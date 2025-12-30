@@ -7,6 +7,7 @@
 # This repository contains Jupyter Notebooks that demonstrate building a fake news classifier using text feature extraction (TF-IDF) and machine learning models. The goal is to preprocess news text, extract meaningful features, train a classifier, and evaluate its performance.
 
 # This project is intended for learning and experimentation in NLP-based fake news detection.
+<img alt="AI brain" width="400" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif">
 
 #🚀 Features
 
