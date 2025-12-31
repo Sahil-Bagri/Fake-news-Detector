@@ -1,5 +1,7 @@
 # Fake-News-Detector
+
 https://news--detection.streamlit.app
+
 *A machine learning project for classifying news articles as fake or real using Natural Language Processing (NLP) techniques and TF-IDF vectorization.*
 
 # 📌 Overview
